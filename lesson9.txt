@@ -1,0 +1,83 @@
+Web design
+
+	- The purpose of this website to:
+		- inform
+		- present
+		- share
+		- sell
+		- offer
+		- promote
+	- Design
+	- UI - user interface
+	- Navigation
+	- UX - oser experience
+	- Content
+	- Features
+	- Up to date
+	- Analytics metrics:
+		- Conversion rate
+		- Bounce rate
+		- Number of visitors
+		- Time on site
+		- Pageview
+		- Traffic sources
+		- User profile
+		- Actions
+		
+1. Homepage.
+	-navigation:
+	    - primary
+	    - secondary
+	    - top bar
+	    - footer
+	    - sidebar
+	    - drop-down/fly-out menu
+	- link
+	- call to action	
+	- hero section
+	- landing page
+	- slider
+	- breadcrumbs
+	
+2. Wireframe.
+	A low fidelity representation of a design, which shows:
+	    - main groups of content
+	    - information structure
+	    - basic visualization of the user interface
+	    
+3. Mockup.
+	A middle to high fidelity, static design representation:
+	    - represents the sructure
+	    - visualizes the content
+	    - demonstrates basic functions
+	    
+4. Prototype.
+	A middle to high fidelity representation of the final product, which simulates user interface interaction:
+	    - allows to experience content and interaction with the inteface.
+	    
+5. Typography.
+	- font - serif, sans-serif
+	- font size - to increase/to decrease
+	- font weight - light/heavy
+	- font style - italic, bold, underline, strike
+	- letters - lower case, upper case, sentence case
+	- letter spacing/kerning - normal, expanded, condensed
+	- line spacing - normal, tight, loose
+	- to align - to left, to right, to center, to justify
+	
+6. Images and colors.
+	- RGB - red, green, blue
+	- CMYK - Cyan, Magenta, Yellow, Black
+	- Pantone
+	- HEX - hexadecimal color (#6667AB)
+	- Hue
+	- Saturation
+	- Contrast
+	- Opacity
+	- vivid, vibrant
+	- dull
+	- to edit 
+	- to crop
+	- to resize
+	- to scale up/down
+	- to bring up/down
