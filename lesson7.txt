@@ -1,0 +1,54 @@
+Hardware.
+
+1. Internal hardware.
+	- CPU - central processing unit, processor.
+	- GPU - graphics processing unit, video card.
+	- RAM - random access memory.
+	- ROM - read-only memory.
+	- HDD - hard disk drive.
+	- SSD - solid state drive.
+	- PSU - power supply unit.
+	- UPS - uninterruptible power supply.
+	
+2. External hardware.
+	- Monitor/screen
+	- Computer case
+	- Keyboard:
+	    - function keys
+	    - backspace
+	    - space bar
+	    - navigation and editing keys
+	    - directional keys
+	    - numeric keypad
+	- Mouse
+	- Trackpad
+	- Wireless (headphones)
+	- Web cam
+	- Speaker
+	- Printer/scanner
+	- Router
+	- USB-drive
+	- Cables, adapters
+	- Power cord
+	
+3. Phrasal verbs.
+	- turn on / switch on / power up - включить
+	- turn off / shut down / power down - выключить
+	- set up - установить, создать
+	- run out of - закончиться
+	- print out - распечатать
+	- plug in - подключать
+	
+4. Problems and solutions.
+	- My computer won`t turn on.
+	- Screen freezes / is frozen.
+	- The program is not responding.
+	- Insufficient memory or disk space.
+	- Laptop is overheating.
+	- PC won`t recognize the USB drive.
+	- Hard drive is not detected.
+	- Smartphone won`t sync with my PC.
+	- The printer won`t connect.
+	- Try rebooting the computer.
+	- Have you tried ...?
+	
