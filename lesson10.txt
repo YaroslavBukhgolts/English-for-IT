@@ -1,0 +1,95 @@
+Future of IT
+
+1. Network systems.
+	- Network server
+	- File server
+	- Database server
+	- Applications server
+	- Communications server
+	- Access server
+	- Backup server 
+	- Network devices:
+	    - Repeater
+	    - Switch
+	    - Hub
+	    - Bridge
+	    - Router
+	    - Gateway
+	- PAN - personal area network
+	- LAN - local area network
+	- WAN - wide area network
+	- MAN - metropolitan area network
+	
+2. Cybersecurity.
+	- Encryption
+	- Cyber espionage
+	- Antivirus
+	- Authentication
+	- Firewall
+	- Data protection
+	- Biometric data
+	- VPN - virtual private network
+	- Fraud
+	- Cybercrime
+	- Data leak
+	- Data breach
+	- To hack
+	- To exploit
+	- to encrypt
+	- to secure
+	
+3. Malware.
+	- Rootkits:
+	    - back door programs
+	    - maintains control without user knowing
+	- Viruses:
+	    - self-replicate
+	    - spread via email, website downloading
+	- Keyloggers:
+	    - logs user`s keysrokes
+	- Ransomware:
+	    - lock users out of system
+	    - deny access to data
+	- Worms:
+	    - self-replicate
+	    - spread via network, email, ...
+	- Spyware:
+	    - gain access to the computer
+	    - collect information
+	- Adware:
+	    - serve advertisements without a browser
+	- Trojan:
+	    - disguised as legitimate software
+	    - steal data
+	- Logic bombs:
+	    - activate when triggered
+	    - often contained in viruses
+	- Botnets:
+	    - 'robot' + 'network'
+	    - controlled remotely
+	    
+4. Artificial intelligence.
+	- AI - artificial intelligence:
+	    - strong = general
+	    - weak = narrow
+	- ML - machine learning
+	- DL - deep learning
+	- NLP - natural language processing
+	- NLU - natural language understanding
+	- NLG - natural language generation
+	- Supervised/unsupervised learning
+	- Neural network
+	- Data crunching
+	- Overfitting:
+	    - train set
+	    - test set
+	- Validation data
+	
+5. Useful links.
+	- British council
+	- BBC learning english
+	- FluentU
+	- TED
+	- You English
+	- English Grammar - Raymond Murphy
+	- EWE
