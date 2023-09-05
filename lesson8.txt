@@ -1,0 +1,61 @@
+Data.
+
+1. Spreadsheets.
+	- rows
+	- columns
+	- cell
+	- active cell
+	- formula builder
+	- sheet tab
+	- view buttons
+	- name box
+	- workbook
+	
+2. Graphs.
+	- line graph
+	- histogram
+	- pie chart
+	- bar chart
+	- area chart
+	- donut chart
+	- Let`s have a look at the diagram.
+	- If you turn to this graph, you will see...
+	
+3. Describing trends.
+	- an increase (in) - to increase
+	- a rise (of) - to rise
+	- a growth (of) - to grow
+	- a peak (of) - to peak 
+	- a surge (of) - to surge
+	- sharp + -ly
+	- sudden + -ly
+	- rapid + -ly
+	- dramatic + -ly
+	- significant + -ly
+	- slight + -ly
+	- gradual + -ly
+	- modest + -ly
+	- steady + -ly
+	- consistent + -ly
+	
+	- a decrease (in) - to decrease
+	- a decline (in) - to decline
+	- a fall (in) - to fall
+	- a dip (in) 
+	- to dive
+	- to plummet
+	
+	- a fluctuation (of) - to fluctuate
+	- a variation (in) - to vary
+	
+4. Drawing conclusions.
+	- From this graph we can see ...
+	- From this graph we can conclude ...
+	- An important point is ...
+	- What is interesting/important here is ...
+	- Judging by the rise of investements, ...
+	- Such rend suggest that ...
+	- This provides evidence of ...
+	- This is due to ...
+	- The data trend highlights ...
+	- Overall, this highlights the importance of ...
