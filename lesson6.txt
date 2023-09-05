@@ -1,0 +1,45 @@
+Software.
+
+1. GUI - graphical user interfacce
+	- minimize window
+	- maximize window
+	- folder
+	- left-hande pane
+	- scroll bar
+    
+    actions:
+    	- click on the icon
+    	- double-click in the...
+    	- right-click on the...
+    	- slide the scroll bar down
+    	- click the 'minimize' button
+    	- select the file
+    	- drag the file
+
+2. Internet browsing.
+	- 'back' button
+	- 'refresh' button
+	- new tab
+	- search bar
+	- shortcuts
+	- bookmarks / favorites 
+	
+3. Coding basics.
+	- variable
+	- numbers: integer, float
+	- string
+	- list
+	- dictionary
+	- tuple
+	- reference
+	- library
+	- package
+	
+4. Passive voice 
+	- He manages the project => The projet is managed by him.
+	to be + V3
+	- I develop the algorithm => The algorithm is developed (by me).
+	- You are designing the application => the application is being designed (by you). 
+	- We updated the OS. => The OS was updated (by us). 
+	- He was fixing the bug. => The bug was being fixed (by him).
+	- They have recovered all the data. => All the data have been recovered (by them). 
